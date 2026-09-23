@@ -1,0 +1,22 @@
+#arial{
+    font-family: Arial;
+    color: red;
+}
+#times{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 22px;
+    color:green;
+}
+#comic{
+    font-family: "Comic Sans MS";
+    font-size: 20px;
+    color:blue;
+    font-style: italic;
+}
+#vardana{
+    font-family: Verdana;
+    font-size: 14px;
+    color: yellow;
+    font-weight: bold;
+
+}

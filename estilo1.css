@@ -1,0 +1,48 @@
+
+.azul{
+    background-color: lightblue;
+    
+}
+.verde{
+    background-color: lightgreen;
+}
+
+.imagemC{
+    background-image: url("1Poderoso.webp");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-size: 200px 250px;
+}
+.imagemD{
+    background-image: url("1Poderoso.webp");
+    background-repeat: repeat-y;
+    background-size: 150px 170px;
+}
+
+.imagemE{
+    background-image: url("1Poderoso.webp");
+    background-repeat: no-repeat;
+    background-size: 200px 250px;    
+}
+
+.imagemF{
+    background-image: url("1Poderoso.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 200px 250px;    
+
+}
+.imagemG{
+    background-color: yellow;
+    background-image: url("1Poderoso.webp");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: scroll;
+    background-size: 200px 250px;
+}
+
+.teste{
+    min-height: 300px;
+    padding: 20px;
+    margin-bottom: 30px;
+}
